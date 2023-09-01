@@ -1,16 +1,24 @@
- # 👋 Hi, I’m Kealeboga Letlhake
- I am a resourceful and dedicated individual with excellent
-communication and analytical skills. My strong interpersonal
-skills allow me to function effectively within a team, while
-also being capable of working independently and proactively.
+# Kealeboga Victory Letlhake
 
-# 👀 I’m interested in ...
-At the moment, my primary interest lies in full-stack development, where I aim to specialize in frontend technologies such as JavaScript while also expanding my proficiency in backend skills encompassing databases, server management, and cloud computing. My enthusiasm stems from the desire to craft seamless user experiences and employ technology to overcome intricate problems.
-# 🌱 I’m currently learning ...
-I am actively engaged in the process of learning and refining my expertise in both frontend and backend technologies. Specifically, I am dedicated to mastering frontend languages like HTML and CSS as well as exploring backend languages such as JavaScript and Python. To enhance my understanding of frontend development, I am currently delving into frameworks like React and Angular. Moreover, I am pursuing self-study in the areas of databases, server management, and cloud computing, with a particular interest in technologies like Node.js.
+![Profile Picture](https://avatars.githubusercontent.com/u/125870519?v=4)
 
-# 🤝 I’m looking to collaborate on ...
-I am filled with enthusiasm when it comes to collaborating on projects that encompass full-stack development, web applications, or pioneering solutions. My eagerness lies in joining a diverse team where I can utilize my skills, problem-solving mindset, and creativity to propel impactful outcomes.
+Resourceful and dedicated individual with excellent communication and analytical skills. Strong interpersonal skills enable effective teamwork and independent, proactive work.
+
+## What I Do
+
+- Software Developer
+- Problem Solver
+- Team Player
+
+## Tech Stack
+
+- **Programming Languages**: Python, JavaScript
+- **Web Development**: HTML, CSS, React
+- **Tools**: Git, Visual Studio Code
+- **Other Skills**: Team Collaboration
+
+Let's connect and collaborate on exciting projects!
+
 
 # 📫 How to reach me ...
 - Email: letlhake.kv@gmail.com

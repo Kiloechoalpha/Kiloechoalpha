@@ -1,6 +1,6 @@
 # Kealeboga Victory Letlhake
 
-![Profile Picture](https://avatars.githubusercontent.com/u/125870519?v=4)
+![Profile Picture]()
 
 Resourceful and dedicated individual with excellent communication and analytical skills. Strong interpersonal skills enable effective teamwork and independent, proactive work.
 

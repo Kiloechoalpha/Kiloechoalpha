@@ -1,7 +1,5 @@
 # Kealeboga Victory Letlhake
 
-![Profile Picture]()
-
 Resourceful and dedicated individual with excellent communication and analytical skills. Strong interpersonal skills enable effective teamwork and independent, proactive work.
 
 ## What I Do
@@ -13,7 +11,7 @@ Resourceful and dedicated individual with excellent communication and analytical
 ## Tech Stack
 
 - **Programming Languages**: Python, JavaScript
-- **Web Development**: HTML, CSS, React
+- **Web Development**: HTML, CSS, React, NextJS
 - **Tools**: Git, Visual Studio Code
 - **Other Skills**: Team Collaboration
 

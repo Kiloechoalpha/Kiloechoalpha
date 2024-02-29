@@ -1,12 +1,7 @@
 # Kealeboga Victory Letlhake
 
-Resourceful and dedicated individual with excellent communication and analytical skills. Strong interpersonal skills enable effective teamwork and independent, proactive work.
+Resourceful and dedicated software engineer with excellent communication and analytical skills. Strong interpersonal skills enable effective teamwork and independent, proactive work.
 
-## What I Do
-
-- Software Developer
-- Problem Solver
-- Team Player
 
 ## Tech Stack
 

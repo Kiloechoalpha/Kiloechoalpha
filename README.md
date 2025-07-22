@@ -1,46 +1,55 @@
-Here's an enhanced, professional, and engaging version of your GitHub profile README:
-
----
-
 # 👋 Hi, I'm **Kealeboga Victory Letlhake**
 
-🎯 A resourceful and driven **Software Engineer** with a passion for crafting clean, scalable, and user-focused solutions. I combine strong technical skills with excellent communication and a deep commitment to continuous learning and growth.
+💻 A **Full Stack Developer** with a passion for building intuitive, scalable, and impactful digital solutions. I specialize in turning ideas into production-ready applications using modern web technologies.
 
-I thrive in both **collaborative team settings** and **independent roles**, always eager to take initiative, solve real-world problems, and build products that make a difference.
-
----
-
-## 🛠 Tech Stack
-
-* **Languages:** JavaScript, Python
-* **Frontend:** HTML5, CSS3, React, Next.js
-* **Version Control & Tools:** Git, GitHub, VS Code
-* **Soft Skills:** Communication • Analytical Thinking • Team Collaboration
+I bring a balance of **front-end finesse**, **back-end logic**, and **collaborative spirit** to every project I work on.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Tech Stack
 
-I'm currently building **scalable web applications** and working on full-stack features using **React**, **Next.js**, and **Firebase**. I'm also passionate about improving UI/UX and ensuring high accessibility standards.
+**🌐 Frontend**
+React • Next.js • HTML5 • CSS3 • Tailwind CSS
+
+**🧠 Backend**
+Node.js • Express • Firebase • REST APIs
+
+**🛢️ Databases**
+Firebase Firestore • MongoDB • Supabase (learning)
+
+**🧰 Tools & DevOps**
+Git • GitHub • VS Code • Postman • Vercel
+
+**🧠 Languages**
+JavaScript • Python
+
+**💬 Soft Skills**
+Problem Solving • Team Collaboration • Communication • Agile Development
 
 ---
 
-## 💡 Interests
+## 💼 What I'm Working On
 
-* Frontend architecture & responsive design
-* Healthcare tech & digital transformation
-* Open-source contribution
-* Teaching & mentoring junior devs
+* Developing a **telehealth platform** using React Native, Firebase, and Tailwind
+* Learning **TypeScript** and improving backend architecture patterns
+* Exploring **microservices and serverless functions**
 
 ---
 
-## 📫 Let's Connect
+## 🌱 Currently Exploring
 
-I’m always open to meaningful collaborations, innovative projects, or just a good tech conversation.
+* **Advanced React patterns**
+* **CI/CD workflows with GitHub Actions**
+* **Database optimization techniques**
+
+---
+
+## 📫 Let’s Connect!
+
+Whether it’s freelance work, collaboration, mentorship, or just a tech convo — I’m open!
 
 * 📧 Email: [letlhake.kv@gmail.com](mailto:letlhake.kv@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/kealet908](https://www.linkedin.com/in/kealet908)
 * 💻 GitHub: [github.com/Kiloechoalpha](https://github.com/Kiloechoalpha)
 
 ---
-

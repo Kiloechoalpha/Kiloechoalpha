@@ -9,7 +9,7 @@ I bring a balance of **front-end finesse**, **back-end logic**, and **collaborat
 ## 🚀 Tech Stack
 
 **🌐 Frontend**
-React • Next.js • HTML5 • CSS3 • Tailwind CSS
+React • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 
 **🧠 Backend**
 Node.js • Express • Firebase • REST APIs
@@ -18,10 +18,10 @@ Node.js • Express • Firebase • REST APIs
 Firebase Firestore • MongoDB • Supabase (learning)
 
 **🧰 Tools & DevOps**
-Git • GitHub • VS Code • Postman • Vercel
+Git • GitHub • VS Code • Vercel
 
 **🧠 Languages**
-JavaScript • Python
+JavaScript • Python • PHP • C++
 
 **💬 Soft Skills**
 Problem Solving • Team Collaboration • Communication • Agile Development
